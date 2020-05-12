@@ -1,6 +1,6 @@
 # Cocos2d-x-lua Frameworks
 
-**My-style** cocos2d-x-lua framework.
+My-style cocos2d-x-lua framework.
 
 It replaces cocos2d-x official src/cocos/framework, with different apis and more features.
 
